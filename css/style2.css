@@ -1,0 +1,17 @@
+.logo{
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.logo img{
+    height: 60px;
+    position: relative;
+    transition: 0.3s ;
+}
+a{
+    text-decoration: none;
+}
